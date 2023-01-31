@@ -407,13 +407,13 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Accord Hybrid Sport,New,32560.0,5.0,23,Sonic Gray Pearl,Black,Front-wheel Drive,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F24NA040318,30420,14.0,4.9,5.0,5.0,4.9,4.9,5.0,CA,Dealer
 2023,Honda,CR-V Hybrid Sport,New,34245.0,4.4,23,Meteorite Gray Metallic,Black,Front-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS5H50PH704808,30434,10.0,5.0,3.0,4.0,4.0,5.0,5.0,CA,Dealer
 2023,Honda,Civic Sport,New,26140.0,4.4,23,Platinum,Black,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,2HGFE2F58PH503468,7503468,,,,,,,,CA,Dealer
-2023,Honda,Pilot Touring,New,,4.8,725,Lunar Silver Metallic,Gray,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H7XPB001934,PB001934,5.0,,,,,,,OR,Dealer
+2023,Honda,Pilot Touring,New,42209.602739726026,4.8,725,Lunar Silver Metallic,Gray,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H7XPB001934,PB001934,5.0,,,,,,,OR,Dealer
 2022,Honda,Pilot Sport,New,39299.0,3.9,144,Crystal Black Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H33NB100699,223932,5.0,5.0,5.0,5.0,5.0,5.0,5.0,WA,Dealer
 2023,Honda,Odyssey Elite,New,50915.0,4.4,12,Modern Steel Metallic,Gray,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H9XPB032972,2070,2.0,5.0,5.0,4.0,4.0,4.0,5.0,KS,Dealer
 2022,Honda,Pilot Elite,New,51664.0,5.0,5,Modern Steel Metallic,Black,All-wheel Drive,19–26,Gasoline,9-SPEED A/T,V6 Cylinder Engine,5FNYF6H02NB086039,22029,4.0,5.0,5.0,5.0,5.0,5.0,5.0,OK,Dealer
 2023,Honda,Pilot Elite,New,53830.0,4.9,273,Radiant Red Metallic II,Black,AWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG1H84PB004787,PB004787,10.0,,,,,,,TX,Dealer
 2023,Honda,Pilot Touring,New,48250.0,4.9,78,Platinum,Black,FWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG2H71PB000161,L000161,,,,,,,,TX,Dealer
-2022,Honda,Pilot Touring 7-Passenger,New,,4.7,138,Crystal Black Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H61NB083900,NB083900,4.0,5.0,5.0,5.0,5.0,5.0,5.0,TX,Dealer
+2022,Honda,Pilot Touring 7-Passenger,New,43351.28301886792,4.7,138,Crystal Black Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H61NB083900,NB083900,4.0,5.0,5.0,5.0,5.0,5.0,5.0,TX,Dealer
 2023,Honda,Ridgeline RTL-E,New,42719.0,4.5,1691,Platinum White Pearl,,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F71PB011935,PB011935,5.0,5.0,4.8,4.8,4.2,5.0,5.0,TX,Dealer
 2023,Honda,HR-V EX-L,New,29540.0,5.0,2291,Platinum White Pearl,Black,Front-wheel Drive,,Gasoline,Automatic,2.0L I4 16V GDI DOHC,3CZRZ1H75PM726815,PM726815,5.0,4.0,5.0,4.0,5.0,5.0,5.0,TX,Dealer
 2023,Honda,Civic Sport,New,26940.0,3.9,187,Sonic Gray Pearl,Black,Front-wheel Drive,,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC,19XFL2G81PE003144,P003144,2.0,,,,,,,KS,Dealer
@@ -584,7 +584,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot TrailSport,New,46500.0,5.0,4674,Sonic Gray Pearl,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H82NB093028,H34303,4.0,5.0,5.0,5.0,5.0,5.0,5.0,VA,Dealer
 2023,Honda,Passport Elite,New,48250.0,5.0,3575,Sonic Gray Pearl,,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H03PB001062,S87677,10.0,,,,,,,PA,Dealer
 2023,Honda,Ridgeline RTL,New,45975.0,4.7,2504,Lunar Silver Metallic,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F53PB015029,123067,5.0,5.0,4.8,4.8,4.2,5.0,5.0,PA,Dealer
-2023,Honda,Odyssey Elite,New,,4.8,1560,Platinum White Pearl,Beige,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H90PB020605,H30152,2.0,5.0,5.0,4.0,4.0,4.0,5.0,PA,Dealer
+2023,Honda,Odyssey Elite,New,45266.40566037736,4.8,1560,Platinum White Pearl,Beige,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H90PB020605,H30152,2.0,5.0,5.0,4.0,4.0,4.0,5.0,PA,Dealer
 2022,Honda,Accord Hybrid Sport,New,32560.0,4.4,124,Still Night Pearl,Black,Front-wheel Drive,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F21NA032483,NA032483,3.0,4.9,5.0,5.0,4.9,4.9,5.0,PA,Dealer
 2023,Honda,Ridgeline RTL,New,43470.0,5.0,5331,Sonic Gray Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F5XPB011589,PB011589,10.0,5.0,4.8,4.8,4.2,5.0,5.0,NJ,Dealer
 2023,Honda,HR-V Sport,New,29040.0,4.8,1037,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ2H59PM724909,230141,10.0,4.0,5.0,4.0,5.0,5.0,5.0,CT,Dealer
@@ -684,7 +684,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,HR-V EX-L,Used,29444.0,4.5,572,Modern Steel Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ1H72PM700267,P88525A,6281.0,4.0,5.0,4.0,5.0,5.0,5.0,FL,Dealer
 2018,Honda,Odyssey Elite,Used,36900.0,5.0,150,Pacific Pewter Metallic,Mocha,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H9XJB008386,PT008386,29100.0,4.8,4.7,4.6,4.3,4.7,4.6,NC,Dealer
 2022,Honda,Pilot Special Edition,New,44205.0,5.0,810,,,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H20NB102403,B102403,,5.0,5.0,5.0,5.0,5.0,5.0,FL,Dealer
-2022,Honda,Pilot Sport,New,,5.0,1767,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H38NB099310,412744,7.0,5.0,5.0,5.0,5.0,5.0,5.0,SC,Dealer
+2022,Honda,Pilot Sport,New,40992.59545454545,5.0,1767,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H38NB099310,412744,7.0,5.0,5.0,5.0,5.0,5.0,5.0,SC,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,44871.0,4.9,3495,Platinum White Pearl,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H97PH800508,Q00508,10001.0,5.0,3.0,4.0,4.0,5.0,5.0,NC,Dealer
 2023,Honda,CR-V EX-L,Used,35562.0,5.0,2857,Radiant Red Metallic,Gray,All-wheel Drive,27–32,Gasoline,CVT,4 Cylinder Engine,5J6RS4H79PL001676,L32622B,2582.0,5.0,5.0,5.0,4.0,4.0,5.0,SC,Dealer
 2016,Honda,Civic EX,Used,17998.0,4.6,3,Silver,Black,Front-wheel Drive,31–41,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,2HGFC2F72GH507751,23737041,107358.0,4.6,4.6,4.6,4.6,4.8,4.6,NC,Dealer
@@ -711,7 +711,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Odyssey EX-L,New,41300.0,4.6,175,Lunar Silver Metallic,Mocha,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H69PB032998,H1223025,7.0,5.0,5.0,4.0,4.0,4.0,5.0,OR,Dealer
 2022,Honda,Pilot EX-L,New,41566.0,5.0,10,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H52NB087476,13020,85.0,5.0,5.0,5.0,5.0,5.0,5.0,WA,Dealer
 2022,Honda,Pilot Special Edition,New,42988.0,4.7,790,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H20NB101526,220211,72.0,5.0,5.0,5.0,5.0,5.0,5.0,WA,Dealer
-2022,Honda,Pilot Sport,New,,3.9,144,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H36NB099306,223871,5.0,5.0,5.0,5.0,5.0,5.0,5.0,WA,Dealer
+2022,Honda,Pilot Sport,New,40992.59545454545,3.9,144,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H36NB099306,223871,5.0,5.0,5.0,5.0,5.0,5.0,5.0,WA,Dealer
 2023,Honda,Passport Elite,New,48250.0,3.9,144,Radiant Red Metallic,,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNYF8H02PB004521,23006H,11.0,,,,,,,NE,Dealer
 2023,Honda,CR-V Hybrid Sport,New,34150.0,4.8,2503,Platinum White Pearl,Black,Front-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS5H50PH702296,H3702296,5.0,5.0,3.0,4.0,4.0,5.0,5.0,TX,Dealer
 2018,Honda,Clarity Plug-In Hybrid Touring,Used,21998.0,4.4,1138,Crystal Black Pearl,Black,Front-wheel Drive,0–0,Hybrid,Variable,Gas/Electric I-4 1.5 L/91,JHMZC5F36JC005943,N2639A,51860.0,4.8,4.7,4.6,4.6,4.4,4.7,TX,Dealer
@@ -722,7 +722,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Pilot TrailSport,New,52583.0,4.5,1627,Sky Blue Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H64PB001838,PB001838,4.0,,,,,,,IA,Dealer
 2015,Honda,CR-V Touring,Used,21900.0,5.0,305,Modern Steel Metallic,Gray,Front-wheel Drive,27–34,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,5J6RM3H93FL020762,FL020762A,60575.0,4.4,4.4,4.3,4.3,4.6,4.5,TX,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,40240.0,5.0,1155,Radiant Red Metallic,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H92PH803428,PH803428,5.0,5.0,3.0,4.0,4.0,5.0,5.0,MO,Dealer
-2023,Honda,Civic EX,New,,4.5,3710,Lunar Silver Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HGFE1F73PH303755,PH303755,8.0,,,,,,,MO,Dealer
+2023,Honda,Civic EX,New,22178.31914893617,4.5,3710,Lunar Silver Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HGFE1F73PH303755,PH303755,8.0,,,,,,,MO,Dealer
 2023,Honda,Odyssey EX-L,New,41905.0,4.4,13,Crystal Black Pearl,Black,FWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H64PB036330,H13512,1.0,5.0,5.0,4.0,4.0,4.0,5.0,IA,Dealer
 2023,Honda,Odyssey Touring,New,45895.0,5.0,4978,Modern Steel Metallic,Gray,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H89PB032940,PB032940,7.0,5.0,5.0,4.0,4.0,4.0,5.0,WI,Dealer
 2022,Honda,Pilot Touring 7-Passenger,New,47465.0,5.0,3543,Crystal Black Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H61NB097490,98203,12.0,5.0,5.0,5.0,5.0,5.0,5.0,IL,Dealer
@@ -786,7 +786,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2021,Honda,Civic Sport,Used,23990.0,4.9,1385,Gray,,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,SHHFK7H42MU407313,P1767JK1,27723.0,4.6,4.7,4.7,4.6,4.8,4.6,NY,Dealer
 2023,Honda,CR-V EX-L,New,35400.0,4.7,2284,Platinum White Pearl,,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L 4 Cylinder,2HKRS3H71PH300695,PH300695,8.0,5.0,5.0,5.0,4.0,4.0,5.0,FL,Dealer
 2023,Honda,HR-V Sport,New,27290.0,4.7,1853,Platinum White Pearl,,Front-wheel Drive,,Gasoline,Automatic,2.0L I4 16V GDI DOHC,3CZRZ1H53PM711955,PM711955,1.0,4.0,5.0,4.0,5.0,5.0,5.0,FL,Dealer
-2023,Honda,CR-V EX-L,New,,4.8,1560,Crystal,Black,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS4H74PH401865,H30068,4.0,5.0,5.0,5.0,4.0,4.0,5.0,PA,Dealer
+2023,Honda,CR-V EX-L,New,33018.642857142855,4.8,1560,Crystal,Black,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS4H74PH401865,H30068,4.0,5.0,5.0,5.0,4.0,4.0,5.0,PA,Dealer
 2022,Honda,Pilot EX-L,New,44000.0,4.9,767,Platinum White Pearl,Beige,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H50NB085337,NB085337,5.0,5.0,5.0,5.0,5.0,5.0,5.0,NJ,Dealer
 2023,Honda,Odyssey Elite,New,50915.0,4.9,1600,Lunar Silver Metallic,Mocha,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H94PB029811,PB029811,2.0,5.0,5.0,4.0,4.0,4.0,5.0,NJ,Dealer
 2020,Honda,Odyssey Touring,Used,38815.0,4.9,1600,Pacific Pewter Metallic,Mocha,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H89LB014206,LB014206P,33016.0,4.8,4.8,4.7,4.6,4.7,4.7,NJ,Dealer
@@ -813,7 +813,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Pilot TrailSport,New,51735.0,4.7,2051,Sky,,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H65PB001427,PB001427,5.0,,,,,,,AZ,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,40240.0,4.6,985,Radiant Red Metallic,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,7FARS6H94PE002471,2C0237,,5.0,3.0,4.0,4.0,5.0,5.0,CO,Dealer
 2022,Honda,Pilot EX-L,New,40488.0,4.7,790,Lunar Silver Metallic,Gray,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H51NB096282,220196,11.0,5.0,5.0,5.0,5.0,5.0,5.0,WA,Dealer
-2022,Honda,Pilot TrailSport,New,,3.9,144,Lunar Silver Metallic,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H89NB069812,223597,5.0,5.0,5.0,5.0,5.0,5.0,5.0,WA,Dealer
+2022,Honda,Pilot TrailSport,New,47194.15540540541,3.9,144,Lunar Silver Metallic,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H89NB069812,223597,5.0,5.0,5.0,5.0,5.0,5.0,5.0,WA,Dealer
 2022,Honda,Civic Sport,Honda Certified,26312.0,4.6,251,Crystal Black Pearl,Black,Front-wheel Drive,30–37,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,2HGFE2F54NH504291,6504291,23288.0,4.6,4.9,4.4,4.6,4.6,4.7,MT,Dealer
 2023,Honda,CR-V EX-L,New,36899.0,4.7,5,Still Night Pearl,Black,All-wheel Drive,27–32,Gasoline,continuously variable automatic,4 Cylinder Engine,2HKRS4H76PH405979,23024,5.0,5.0,5.0,5.0,4.0,4.0,5.0,OK,Dealer
 2023,Honda,HR-V Sport,New,27144.0,4.6,5,Crystal Black Pearl,Black,Front-wheel Drive,26–32,Gasoline,continuously variable (m cvt),4 Cylinder Engine,3CZRZ1H55PM719216,23020,5.0,4.0,5.0,4.0,5.0,5.0,5.0,OK,Dealer
@@ -1061,8 +1061,8 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Accord Hybrid Sport,New,32165.0,5.0,38,Crystal Black Pearl,Black,Front-wheel Drive,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F2XNA044163,52044,4029.0,4.9,5.0,5.0,4.9,4.9,5.0,IN,Dealer
 2023,Honda,Civic Si Base,New,30050.0,3.0,765,Sonic Gray Pearl,Black / Red,Front-wheel Drive,,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E52PH472035,6312023,0.0,,,,,,,OH,Dealer
 2023,Honda,Pilot Sport,New,42940.0,3.0,765,Platinum,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H31PB002077,6311990,0.0,,,,,,,OH,Dealer
-2023,Honda,Civic Si Base,New,,2.8,1046,Rallye Red,Black / Red,Front-wheel Drive,,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E51PH470616,PH470616,6.0,,,,,,,OH,Dealer
-2023,Honda,Civic Si Base,New,,2.8,1046,Platinum White Pearl,Black / Red,Front-wheel Drive,,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E57PH471494,PH471494,6.0,,,,,,,OH,Dealer
+2023,Honda,Civic Si Base,New,28851.694736842106,2.8,1046,Rallye Red,Black / Red,Front-wheel Drive,,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E51PH470616,PH470616,6.0,,,,,,,OH,Dealer
+2023,Honda,Civic Si Base,New,28851.694736842106,2.8,1046,Platinum White Pearl,Black / Red,Front-wheel Drive,,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E57PH471494,PH471494,6.0,,,,,,,OH,Dealer
 2023,Honda,CR-V EX-L,New,36505.0,4.6,784,Canyon,Black,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS4H73PH400769,5123,,5.0,5.0,5.0,4.0,4.0,5.0,OH,Dealer
 2022,Honda,Pilot Touring 7-Passenger,Used,39081.0,4.7,334,Red,Beige,Front-wheel Drive,20–27,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H69NB020280,020280,12095.0,5.0,5.0,5.0,5.0,5.0,5.0,KY,Dealer
 2022,Honda,Civic Si Base,Used,31400.0,4.8,1991,Sonic Gray Pearl,Black / Red,Front-wheel Drive,27–37,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E59NH471168,62481A,22174.0,4.2,4.0,4.5,4.2,4.5,5.0,OH,Dealer
@@ -1386,7 +1386,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2017,Honda,Accord LX,Used,18400.0,4.4,158,Modern Steel Metallic,Gray,Front-wheel Drive,27–36,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,1HGCR2F36HA220914,Z2587,44314.0,4.8,4.8,4.8,4.8,4.8,4.9,NY,Dealer
 2023,Honda,Odyssey EX-L,New,42250.0,5.0,771,Radiant Red,Beige,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H68PB032720,HP6023,2.0,5.0,5.0,4.0,4.0,4.0,5.0,VA,Dealer
 2015,Honda,Odyssey EX-L,Used,17050.0,4.7,0,Gray,Gray,Front-wheel Drive,19–28,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL5H65FB032103,K1801A,62722.0,4.8,4.6,4.7,4.6,4.7,4.8,NY,Dealer
-2023,Honda,Odyssey Elite,New,,4.8,1560,Platinum White Pearl,Black,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H92PB028155,H30145,7.0,5.0,5.0,4.0,4.0,4.0,5.0,PA,Dealer
+2023,Honda,Odyssey Elite,New,45266.40566037736,4.8,1560,Platinum White Pearl,Black,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H92PB028155,H30145,7.0,5.0,5.0,4.0,4.0,4.0,5.0,PA,Dealer
 2023,Honda,CR-V EX-L,New,36505.0,4.4,124,Crystal Black Pearl,Black,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS4H77PH401861,PH401861,3.0,5.0,5.0,5.0,4.0,4.0,5.0,PA,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,39845.0,4.9,767,Lunar Silver Metallic,Black,All-wheel Drive,,Hybrid,,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H90PH805758,PH805758,5.0,5.0,3.0,4.0,4.0,5.0,5.0,NJ,Dealer
 2016,Honda,HR-V EX-L w/Navigation,Used,22995.0,4.2,76,Green,,All-wheel Drive,27–32,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU6H72GM731580,F32768,26546.0,4.4,4.4,4.2,4.5,4.6,4.7,AK,Dealer
@@ -1668,7 +1668,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,Insight EX,Used,23999.0,4.8,1,Modern Steel Metallic,Black,Front-wheel Drive,55–49,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F53LE001013,O377332,30451.0,4.5,4.8,4.5,4.8,4.9,5.0,FL,Dealer
 2012,Honda,CR-V EX-L,Used,14795.0,4.5,44,Blue,Gray,All-wheel Drive,22–30,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6RM4H79CL017266,65073896,89782.0,4.5,4.5,4.4,4.6,4.5,4.7,NY,Dealer
 2018,Honda,CR-V EX-L,Used,26998.0,4.7,2,White,Tan,All-wheel Drive,27–33,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRW2H86JH651052,23513025,42082.0,4.8,4.7,4.7,4.6,4.7,4.7,FL,Dealer
-2022,Honda,Pilot Sport,New,,4.2,1147,Obsidian Blue Pearl,,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H30NB065877,LH221324,1770.0,5.0,5.0,5.0,5.0,5.0,5.0,VA,Dealer
+2022,Honda,Pilot Sport,New,40992.59545454545,4.2,1147,Obsidian Blue Pearl,,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H30NB065877,LH221324,1770.0,5.0,5.0,5.0,5.0,5.0,5.0,VA,Dealer
 2022,Honda,Pilot Sport,New,41770.0,4.7,2681,Sonic Gray Pearl,,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H30NB104340,NB104340,2.0,5.0,5.0,5.0,5.0,5.0,5.0,VA,Dealer
 2022,Honda,Pilot Sport,New,41770.0,4.9,958,Platinum White Pearl,Nh-883p/Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,V6 Cylinder Engine,5FNYF6H30NB103852,HN12300,2.0,5.0,5.0,5.0,5.0,5.0,5.0,NC,Dealer
 2022,Honda,Pilot Special Edition,New,44600.0,2.7,447,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H2XNB104529,NB104529,0.0,5.0,5.0,5.0,5.0,5.0,5.0,VA,Dealer
@@ -1693,7 +1693,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Civic Sport,New,24315.0,4.7,3094,Crystal Black Pearl,Black,Front-wheel Drive,30–37,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,2HGFE2F58NH559956,A559956,5163.0,4.6,4.9,4.4,4.6,4.6,4.7,FL,Dealer
 2023,Honda,Ridgeline RTL-E,New,46420.0,4.7,4911,Sonic Gray Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F70PB010453,PB010453,15.0,5.0,4.8,4.8,4.2,5.0,5.0,NJ,Dealer
 2023,Honda,Civic Si SI,New,29195.0,4.2,1578,Crystal Black Pearl,Black/Red,Front-wheel Drive,27–37,Gasoline,Manual,Intercooled Turbo Premium Unleaded I-4 1.5 L/91,2HGFE1E5XPH471425,223139,1.0,,,,,,,NJ,Dealer
-2023,Honda,CR-V EX-L,New,,4.3,5964,Crystal Black Pearl,Black,All-wheel Drive,27–32,Gasoline,CVT,1.5L I4 DOHC 16V,5J6RS4H74PL000421,23133,3.0,5.0,5.0,5.0,4.0,4.0,5.0,NY,Dealer
+2023,Honda,CR-V EX-L,New,33018.642857142855,4.3,5964,Crystal Black Pearl,Black,All-wheel Drive,27–32,Gasoline,CVT,1.5L I4 DOHC 16V,5J6RS4H74PL000421,23133,3.0,5.0,5.0,5.0,4.0,4.0,5.0,NY,Dealer
 2023,Honda,Civic Sport,New,26145.0,4.9,1559,Lunar Silver Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,2HGFE2F5XPH517159,230169,15.0,,,,,,,CT,Dealer
 2022,Honda,Accord Sport 1.5T,New,30075.0,4.9,1559,Black,Black,FWD,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F36NA117493,220925,15.0,5.0,5.0,5.0,5.0,5.0,5.0,CT,Dealer
 2023,Honda,CR-V EX,New,34800.0,4.2,2065,Gray,Black,All-wheel Drive,,Gasoline,,1.5L I4 16V GDI DOHC Turbo,7FARS4H43PE013437,W300206,4.0,5.0,5.0,5.0,4.0,4.0,5.0,MA,Dealer
@@ -1703,7 +1703,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Civic EX-L,New,28740.0,4.6,23,White,,Front-wheel Drive,31–39,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H76NE018834,NE018834,15.0,4.6,4.9,4.4,4.6,4.6,4.7,CA,Dealer
 2018,Honda,CR-V LX,Used,22990.0,4.0,9544,Gray,Black,All-wheel Drive,25–31,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,2HKRW6H30JH223019,2002155209,55076.0,4.8,4.7,4.7,4.6,4.7,4.7,,
 2023,Honda,Civic Sport,New,27400.0,4.0,9544,Boost Blue Pearl,Black,FWD,,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC,19XFL2G82PE004142,30441,,,,,,,,CA,Dealer
-2023,Honda,Civic EX-L,New,,4.8,1278,Meteorite Gray Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H75PE002210,H30402,0.0,,,,,,,AZ,Dealer
+2023,Honda,Civic EX-L,New,24467.5,4.8,1278,Meteorite Gray Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H75PE002210,H30402,0.0,,,,,,,AZ,Dealer
 2022,Honda,Pilot Special Edition,New,42067.0,4.8,1278,Sonic Gray Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H29NB100178,H22414,0.0,5.0,5.0,5.0,5.0,5.0,5.0,AZ,Dealer
 2023,Honda,Odyssey Sport,New,43050.0,5.0,737,Platinum White Pearl,Crystal Black,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H77PB022687,46437,0.0,5.0,5.0,4.0,4.0,4.0,5.0,AZ,Dealer
 2015,Honda,Civic EX,Used,12495.0,4.7,8,Alabaster Silver Metallic,Gray,Front-wheel Drive,29–38,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,2HGFG3B80FH511353,A511353,111357.0,4.6,4.6,4.6,4.7,4.6,4.8,AZ,Dealer
@@ -1786,7 +1786,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Pilot Elite,New,53375.0,4.7,2,Obsidian Blue,Gray,All-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG1H80PB005371,H14727,18.0,,,,,,,VA,Dealer
 2020,Honda,Pilot EX-L,Used,37485.0,4.2,1147,Lunar Silver Metallic,Gray,All-wheel Drive,18–26,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H56LB011076,X16516,33902.0,4.6,4.5,4.2,4.1,4.5,4.1,VA,Dealer
 2023,Honda,Pilot TrailSport,New,50150.0,4.2,1147,Sky,Black,AWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG1H69PB000409,H230316,,,,,,,,VA,Dealer
-2022,Honda,Pilot Touring 8-Passenger,New,,4.9,958,Sonic Gray Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,V6 Cylinder Engine,5FNYF6H62NB045219,HN11985,18500.0,5.0,5.0,5.0,5.0,5.0,5.0,NC,Dealer
+2022,Honda,Pilot Touring 8-Passenger,New,39677.36666666667,4.9,958,Sonic Gray Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,V6 Cylinder Engine,5FNYF6H62NB045219,HN11985,18500.0,5.0,5.0,5.0,5.0,5.0,5.0,NC,Dealer
 2022,Honda,Pilot Sport,New,41770.0,2.7,447,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H30NB092187,NB092187,0.0,5.0,5.0,5.0,5.0,5.0,5.0,VA,Dealer
 2023,Honda,CR-V EX,New,33750.0,4.8,1277,Radiant Red Metallic,Gray,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARS4H47PE006412,HX06412,180.0,5.0,5.0,5.0,4.0,4.0,5.0,VA,Dealer
 2023,Honda,CR-V EX-L,New,36010.0,4.7,367,Platinum White Pearl,Gray,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS3H75PH302739,H34903,3.0,5.0,5.0,5.0,4.0,4.0,5.0,FL,Dealer
@@ -1900,7 +1900,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot Special Edition,New,44600.0,4.6,1486,Dark Cherry Pearl,,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H27NB097085,HH151099,133.0,5.0,5.0,5.0,5.0,5.0,5.0,ME,Dealer
 2023,Honda,Civic Si Base,New,29590.0,4.6,1486,Platinum White Pearl,,Front-wheel Drive,,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E51PH471491,00830232,6.0,,,,,,,CA,Dealer
 2023,Honda,CR-V EX,New,33855.0,4.9,5490,Canyon,Black,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARS4H41PE009709,23H257,5.0,5.0,5.0,5.0,4.0,4.0,5.0,CA,Dealer
-2021,Honda,Civic Type R Limited Edition,New,,1.6,76,White,,Front-wheel Drive,22–28,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,0000000000TCFK810,RACECAR1,2.0,5.0,4.8,5.0,4.8,4.8,5.0,CA,Dealer
+2021,Honda,Civic Type R Limited Edition,New,59437.5,1.6,76,White,,Front-wheel Drive,22–28,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,0000000000TCFK810,RACECAR1,2.0,5.0,4.8,5.0,4.8,4.8,5.0,CA,Dealer
 2012,Honda,Crosstour EX,Used,16990.0,4.0,9531,Gray,Black,Front-wheel Drive,18–27,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5J6TF1H34CL002573,2002010506,84972.0,4.8,4.7,4.7,4.6,4.7,4.8,,
 2019,Honda,Clarity Plug-In Hybrid Touring,Used,26333.0,4.3,232,Solar Silver Metallic,Black,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F3XKC004960,P64938,54910.0,4.9,4.9,4.9,5.0,4.7,5.0,CA,Dealer
 2022,Honda,Civic EX-L,New,28740.0,4.6,7,Platinum,Black,FWD,31–39,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H71NE024024,H22080,7.0,4.6,4.9,4.4,4.6,4.6,4.7,CA,Dealer
@@ -2053,7 +2053,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,HR-V EX,Used,22500.0,4.7,436,Gray,,Front-wheel Drive,28–34,Gasoline,continuously variable w/sport mode,4 Cylinder Engine,3CZRU5H59LM714360,H1018,24701.0,4.7,4.8,4.7,4.8,4.8,4.7,IL,Dealer
 2022,Honda,Passport EX-L,New,41765.0,4.7,739,Crystal Black Pearl,Black,AWD,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H58NB032557,C17626,1.0,5.0,5.0,4.9,5.0,4.9,5.0,IL,Dealer
 2023,Honda,Civic Sport,New,25745.0,4.7,739,Silver Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,2HGFE2F58PH512607,HN5378,,,,,,,,KY,Dealer
-2023,Honda,HR-V EX-L,New,,4.6,3,Nordic,Gray,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ1H79PM727594,H5714,5.0,4.0,5.0,4.0,5.0,5.0,5.0,KY,Dealer
+2023,Honda,HR-V EX-L,New,29371.14893617021,4.6,3,Nordic,Gray,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ1H79PM727594,H5714,5.0,4.0,5.0,4.0,5.0,5.0,5.0,KY,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,40395.0,4.7,647,Lunar Silver Metallic,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,7FARS6H97PE005705,H23186,5.0,5.0,3.0,4.0,4.0,5.0,5.0,IN,Dealer
 2023,Honda,Ridgeline RTL-E,New,49320.0,4.6,89,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F78PB006604,29387,104.0,5.0,4.8,4.8,4.2,5.0,5.0,WI,Dealer
 2023,Honda,Odyssey Elite,New,51420.0,3.8,327,Platinum White Pearl,Black,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H92PB034201,23HT067,4.0,5.0,5.0,4.0,4.0,4.0,5.0,IN,Dealer
@@ -2090,7 +2090,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2018,Honda,Civic Type R Touring,Used,35779.0,5.0,4354,Crystal Black Pearl,Red / Black,Front-wheel Drive,22–28,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,SHHFK8G74JU200239,131375,51191.0,4.5,4.7,4.9,4.7,4.7,4.8,FL,Dealer
 2023,Honda,Ridgeline Black Edition,New,47920.0,4.7,2504,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F86PB017013,123070,3.0,5.0,4.8,4.8,4.2,5.0,5.0,PA,Dealer
 2012,Honda,Civic Hybrid,Used,7995.0,4.0,105,Alabaster Silver Metallic,Stone,Front-wheel Drive,44–44,Hybrid,Automatic,1.5L SOHC MPFI 8-valve 2-stage i-VTEC I4 hybrid engine w/permane,JHMFB4F29CS007542,0dmdmsfiu64hf8wnufdf,147382.0,3.9,4.0,3.7,4.0,4.0,4.0,PA,Dealer
-2023,Honda,Ridgeline Black Edition,New,,4.9,295,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F89PB012923,PB012923,3.0,5.0,4.8,4.8,4.2,5.0,5.0,NJ,Dealer
+2023,Honda,Ridgeline Black Edition,New,45551.55223880597,4.9,295,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F89PB012923,PB012923,3.0,5.0,4.8,4.8,4.2,5.0,5.0,NJ,Dealer
 2023,Honda,Passport TrailSport,New,45580.0,5.0,5331,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNYF8H60PB002917,PB002917,10.0,,,,,,,NJ,Dealer
 2022,Honda,Pilot TrailSport,New,46500.0,4.9,1559,Gray,Black,AWD,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H82NB103735,220915,19.0,5.0,5.0,5.0,5.0,5.0,5.0,CT,Dealer
 2022,Honda,HR-V Sport,Used,27388.0,4.3,224,Platinum White Pearl,Black,All-wheel Drive,26–31,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU6H11NM733278,H67759,7902.0,3.8,3.2,3.6,3.6,4.2,4.2,MA,Dealer
@@ -2120,7 +2120,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2018,Honda,Civic Si,Used,23954.0,4.9,2598,Energy Green Pearl,Black,Front-wheel Drive,28–38,Gasoline,6-Speed Manual,4 Cylinder Engine,2HGFC3A50JH750512,STK750512,54677.0,4.7,4.7,4.8,4.8,4.9,4.8,CO,Dealer
 2023,Honda,Civic Si Base,New,29590.0,5.0,1370,Platinum White Pearl,Black / Red,FWD,,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E58PH471326,2H30223,3.0,,,,,,,CO,Dealer
 2023,Honda,Ridgeline Black Edition,New,48359.0,4.8,2,NH 883P,Black,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F80PB017461,BN72,10.0,5.0,4.8,4.8,4.2,5.0,5.0,WY,Dealer
-2023,Honda,Ridgeline RTL-E,New,,4.7,139,Modern Steel Metallic,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F77PB003208,PB003208,4.0,5.0,4.8,4.8,4.2,5.0,5.0,TX,Dealer
+2023,Honda,Ridgeline RTL-E,New,44047.35211267605,4.7,139,Modern Steel Metallic,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F77PB003208,PB003208,4.0,5.0,4.8,4.8,4.2,5.0,5.0,TX,Dealer
 2022,Honda,Ridgeline RTL-E,Used,39000.0,4.7,139,Platinum White Pearl,Beige,All-wheel Drive,18–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F77NB018756,NB018756A,4659.0,5.0,4.9,4.9,4.3,4.7,5.0,TX,Dealer
 2023,Honda,HR-V EX-L,New,29195.0,4.9,3405,Lunar Silver Metallic,Gray,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ1H72PM727078,PM727078,10.0,4.0,5.0,4.0,5.0,5.0,5.0,TX,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,40231.0,4.9,3405,Platinum White Pearl,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H95PH800247,PH800247,10.0,5.0,3.0,4.0,4.0,5.0,5.0,TX,Dealer
@@ -2225,7 +2225,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2019,Honda,Insight EX,Used,25854.0,4.8,2110,White,Black,Front-wheel Drive,55–49,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F58KE025371,KE025371,17144.0,4.6,4.8,4.5,4.7,4.8,4.8,AR,Dealer
 2020,Honda,Pilot Touring 7-Passenger,Used,32991.0,4.5,1524,Modern Steel Metallic,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H61LB018865,T20694B,41206.0,4.6,4.5,4.2,4.1,4.5,4.1,MO,Dealer
 2023,Honda,Ridgeline RTL-E,New,46948.0,5.0,140,Radiant Red,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F72PB020904,X376H,0.0,5.0,4.8,4.8,4.2,5.0,5.0,IA,Dealer
-2023,Honda,Odyssey EX-L,New,,4.5,3710,Pacific Pewter Metallic,Mocha,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H69PB034539,PB034539,8.0,5.0,5.0,4.0,4.0,4.0,5.0,MO,Dealer
+2023,Honda,Odyssey EX-L,New,32374.91907514451,4.5,3710,Pacific Pewter Metallic,Mocha,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H69PB034539,PB034539,8.0,5.0,5.0,4.0,4.0,4.0,5.0,MO,Dealer
 2018,Honda,Civic LX,Used,17999.0,4.8,66,Taffeta White,Gray,Front-wheel Drive,31–40,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,2HGFC2F59JH574711,P2334,80652.0,4.7,4.7,4.8,4.8,4.9,4.8,MN,Dealer
 2021,Honda,Odyssey Touring,Honda Certified,41994.0,3.9,1075,Lunar Silver Metallic,Mocha,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H80MB020252,253366A,19349.0,5.0,5.0,4.9,4.8,4.8,5.0,MN,Dealer
 2016,Honda,HR-V LX,Used,19998.0,3.9,1075,Modern Steel Metallic,Black,All-wheel Drive,27–32,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU6H3XGM742713,P410477,33712.0,4.4,4.4,4.2,4.5,4.6,4.7,MN,Dealer
@@ -2288,7 +2288,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Ridgeline RTL-E,Used,41995.0,4.8,109,Blue,,All-wheel Drive,18–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F70NB015066,015066,11647.0,5.0,4.9,4.9,4.3,4.7,5.0,NY,Dealer
 2022,Honda,Accord Hybrid Sport,New,35560.0,5.0,1047,Gray,,Front-wheel Drive,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F20NA047119,H50315,5.0,4.9,5.0,5.0,4.9,4.9,5.0,PA,Dealer
 2023,Honda,Ridgeline RTL-E,New,46420.0,4.7,2504,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F73PB008227,123056,10.0,5.0,4.8,4.8,4.2,5.0,5.0,PA,Dealer
-2022,Honda,Pilot Sport,New,,4.8,1560,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H33NB077702,H21041,5.0,5.0,5.0,5.0,5.0,5.0,5.0,PA,Dealer
+2022,Honda,Pilot Sport,New,40992.59545454545,4.8,1560,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H33NB077702,H21041,5.0,5.0,5.0,5.0,5.0,5.0,5.0,PA,Dealer
 2023,Honda,CR-V EX-L,New,37450.0,4.4,124,Radiant Red Metallic,Gray,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,5J6RS4H74PL002492,PL002492,0.0,5.0,5.0,5.0,4.0,4.0,5.0,PA,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,40240.0,4.9,1600,Urban Gray Pearl,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,7FARS6H94PE001532,PE001532S,5.0,5.0,3.0,4.0,4.0,5.0,5.0,NJ,Dealer
 2023,Honda,CR-V Hybrid Sport,New,35590.0,4.6,652,WX / WX,Black,All-wheel Drive,,Hybrid,Automatic,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H58PH805049,PH805049,6.0,5.0,3.0,4.0,4.0,5.0,5.0,NJ,Dealer
@@ -2603,7 +2603,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2019,Honda,Clarity Plug-In Hybrid Base,Used,26187.0,3.9,83,Platinum White Pearl,Beige,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F14KC005262,005262T,27985.0,4.9,4.9,4.9,5.0,4.7,5.0,CA,Dealer
 2022,Honda,Accord Sport 1.5T,New,28981.0,4.7,1932,Crystal Black Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F30NA108577,NA108577,9.0,5.0,5.0,5.0,5.0,5.0,5.0,NV,Dealer
 2023,Honda,Civic Sport Touring,New,31545.0,5.0,1164,Meteorite Gray,Gray,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H8XPE002471,230360,8.0,,,,,,,AZ,Dealer
-2023,Honda,Odyssey Elite,New,,4.8,1279,Modern Steel Metallic,Gray,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H98PB032968,H30401,0.0,5.0,5.0,4.0,4.0,4.0,5.0,AZ,Dealer
+2023,Honda,Odyssey Elite,New,45266.40566037736,4.8,1279,Modern Steel Metallic,Gray,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H98PB032968,H30401,0.0,5.0,5.0,4.0,4.0,4.0,5.0,AZ,Dealer
 2023,Honda,Ridgeline RTL-E,New,46038.0,4.7,2051,Platinum White Pearl,,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F78PB016954,PB016954,5.0,5.0,4.8,4.8,4.2,5.0,5.0,AZ,Dealer
 2019,Honda,Odyssey EX-L,Used,31460.0,5.0,248,Silver,Mocha,Front-wheel Drive,19–28,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H79KB022666,15642A,52027.0,4.8,4.6,4.5,4.3,4.7,4.5,WA,Dealer
 2020,Honda,Odyssey EX-L,Used,38998.0,4.5,285,Gray,Gray,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H79LB046077,Q3143,19484.0,4.8,4.8,4.7,4.6,4.7,4.7,WA,Dealer
@@ -2805,7 +2805,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2018,Honda,CR-V EX-L,Used,26998.0,4.7,2,Black,Black,All-wheel Drive,27–33,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRW2H88JH640330,23864134,46553.0,4.8,4.7,4.7,4.6,4.7,4.7,CA,Dealer
 2016,Honda,CR-V LX,Used,22998.0,4.6,16,Black,Black,All-wheel Drive,25–31,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,5J6RM4H35GL128464,23664040,45968.0,4.6,4.5,4.6,4.6,4.7,4.7,CA,Dealer
 2023,Honda,Passport EX-L,New,42395.0,4.6,16,Crystal Black Pearl,Black,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H56PB006879,78808,7.0,,,,,,,NV,Dealer
-2023,Honda,Odyssey Touring,New,,4.8,1279,Radiant Red Metallic II,Beige,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H87PB034136,H30443,0.0,5.0,5.0,4.0,4.0,4.0,5.0,AZ,Dealer
+2023,Honda,Odyssey Touring,New,40918.988505747126,4.8,1279,Radiant Red Metallic II,Beige,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H87PB034136,H30443,0.0,5.0,5.0,4.0,4.0,4.0,5.0,AZ,Dealer
 2023,Honda,Odyssey Sport,New,42900.0,5.0,737,Radiant Red Metallic,Black,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H71PB022619,46427,0.0,5.0,5.0,4.0,4.0,4.0,5.0,AZ,Dealer
 2021,Honda,Passport Elite,Used,41812.0,3.8,442,Platinum White Pearl,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H01MB039515,X42692A,10714.0,4.9,4.7,4.8,4.6,4.8,4.8,OR,Dealer
 2021,Honda,Passport EX-L,Used,34496.0,4.8,725,Black Copper Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H52MB011833,MB011833T,16585.0,4.9,4.7,4.8,4.6,4.8,4.8,OR,Dealer
@@ -3021,7 +3021,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2007,Honda,Odyssey EX,Used,9999.0,4.0,51,Silver,Gray,Front-wheel Drive,18–25,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL38417B405559,B6196,100078.0,4.6,4.6,4.3,4.3,4.3,4.4,KS,Dealer
 2017,Honda,Civic Si,Used,21888.0,4.4,877,Aegean Blue Metallic,Gray,Front-wheel Drive,28–38,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFC1E50HH700895,JB4541,58740.0,4.7,4.7,4.8,4.8,4.8,4.8,OK,Dealer
 2023,Honda,Pilot Elite,New,56370.0,4.8,2503,Lunar Silver,Gray,All-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG1H87PB006243,H3006243,0.0,,,,,,,TX,Dealer
-2022,Honda,Pilot TrailSport,New,,4.7,139,Platinum White Pearl,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H83NB090607,NB090607,10.0,5.0,5.0,5.0,5.0,5.0,5.0,TX,Dealer
+2022,Honda,Pilot TrailSport,New,47194.15540540541,4.7,139,Platinum White Pearl,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H83NB090607,NB090607,10.0,5.0,5.0,5.0,5.0,5.0,5.0,TX,Dealer
 2023,Honda,CR-V EX-L,New,36010.0,5.0,2291,Platinum White Pearl,Gray,FWD,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS3H7XPH302526,PH302526,4.0,5.0,5.0,5.0,4.0,4.0,5.0,TX,Dealer
 2023,Honda,CR-V EX-L,New,35551.0,4.9,3405,Canyon,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS3H74PH302151,PH302151,12.0,5.0,5.0,5.0,4.0,4.0,5.0,TX,Dealer
 2023,Honda,Passport Elite,New,44712.0,4.8,578,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNYF8H04PB005069,PB005069,10.0,,,,,,,TX,Dealer
@@ -3135,7 +3135,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,CR-V EX,Used,26495.0,4.5,230,White,,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,5J6RW1H5XLA008482,LA008482,31925.0,4.9,4.8,4.8,4.8,4.9,4.9,TX,Dealer
 2018,Honda,CR-V Touring,Used,29486.0,4.4,45,White Diamond Pearl,Ivory,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRW1H98JH518487,JH518487S,61916.0,4.8,4.7,4.7,4.6,4.7,4.7,TX,Dealer
 2022,Honda,Accord Sport 1.5T,New,29252.0,4.3,1019,Still Night Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F33NA090141,NA090141,5.0,5.0,5.0,5.0,5.0,5.0,5.0,AR,Dealer
-2023,Honda,Pilot Elite,New,,4.5,3710,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H88PB002895,PB002895,12.0,,,,,,,MO,Dealer
+2023,Honda,Pilot Elite,New,46784.90909090909,4.5,3710,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H88PB002895,PB002895,12.0,,,,,,,MO,Dealer
 2017,Honda,Ridgeline RTL,Used,27950.0,5.0,110,Obsidian Blue Pearl,,All-wheel Drive,18–25,Gasoline,6-SPEED A/T,V6 Cylinder Engine,5FPYK3F61HB027299,PU1742,71778.0,4.8,4.7,4.7,4.4,4.7,4.7,MO,Dealer
 2020,Honda,Accord EX-L,Used,27495.0,4.7,1030,Radiant Red Metallic,Ivory,Front-wheel Drive,30–38,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F57LA129490,P6032,25654.0,4.8,4.8,4.8,4.8,4.9,4.9,MN,Dealer
 2020,Honda,Passport Elite,Honda Certified,34454.0,4.5,2760,Black Copper Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H01LB002348,P002348,46790.0,4.9,4.8,4.8,4.6,4.8,4.8,MN,Dealer
@@ -3199,7 +3199,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2019,Honda,Passport Sport,Honda Certified,27987.0,4.9,1197,Crystal Black Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H28KB021043,B8226,25261.0,4.8,4.7,4.7,4.6,4.7,4.8,NH,Dealer
 2021,Honda,Passport EX-L,Honda Certified,36465.0,5.0,1572,Obsidian Blue Pearl,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H53MB023246,49362B,9121.0,4.9,4.7,4.8,4.6,4.8,4.8,MA,Dealer
 2018,Honda,Clarity Plug-In Hybrid Touring,Used,26906.0,4.7,4,Modern Steel Metallic,Black,Front-wheel Drive,0–0,Hybrid,e continuously variable (e cvt),4 Cylinder Engine,JHMZC5F31JC011391,JC011391P,44095.0,4.8,4.7,4.6,4.6,4.4,4.7,CA,Dealer
-2022,Honda,CR-V Touring,New,,5.0,338,Modern Steel Metallic,Gray,All-wheel Drive,27–32,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARW2H99NE045892,2555,5.0,4.9,4.8,4.7,4.8,4.7,4.9,CA,Dealer
+2022,Honda,CR-V Touring,New,30437.791666666668,5.0,338,Modern Steel Metallic,Gray,All-wheel Drive,27–32,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARW2H99NE045892,2555,5.0,4.9,4.8,4.7,4.8,4.7,4.9,CA,Dealer
 2023,Honda,Odyssey Touring,New,46290.0,4.4,12,Radiant Red Metallic II,Beige,FWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H88PB034145,5734145,,5.0,5.0,4.0,4.0,4.0,5.0,CA,Dealer
 2018,Honda,Clarity Plug-In Hybrid Touring,Used,23999.0,5.0,22425,Modern Steel Metallic,Black,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F32JC002831,M377289,55217.0,4.8,4.7,4.6,4.6,4.4,4.7,,
 2022,Honda,Accord Sport 1.5T,New,28923.0,4.7,2713,Still Night Pearl,,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F35NA089685,NA089685,9.0,5.0,5.0,5.0,5.0,5.0,5.0,CA,Dealer
@@ -3270,7 +3270,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2015,Honda,Civic LX,Used,12295.0,4.7,51,Black,Black / Red,Front-wheel Drive,30–39,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,19XFB2F57FE704103,E704103,110984.0,4.6,4.6,4.6,4.7,4.6,4.8,OH,Dealer
 2015,Honda,Civic LX,Used,16405.0,4.7,85,Alabaster Silver Metallic,Black / Red,Front-wheel Drive,30–39,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,19XFB2F54FE019976,P3963,22991.0,4.6,4.6,4.6,4.7,4.6,4.8,OH,Dealer
 2020,Honda,Accord Hybrid Touring,Used,31980.0,4.5,266,Lunar Silver Metallic,Black,Front-wheel Drive,48–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F95LA011632,535023B,57172.0,4.7,4.8,4.5,4.6,4.7,4.8,SC,Dealer
-2022,Honda,Accord Sport 1.5T,New,,5.0,1767,Platinum White Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F31NA103792,302741,7.0,5.0,5.0,5.0,5.0,5.0,5.0,SC,Dealer
+2022,Honda,Accord Sport 1.5T,New,29609.69587628866,5.0,1767,Platinum White Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F31NA103792,302741,7.0,5.0,5.0,5.0,5.0,5.0,5.0,SC,Dealer
 2023,Honda,CR-V Hybrid Sport,New,38326.0,4.9,3496,Lunar Silver Metallic,Black,Front-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS5H57PH700724,Q00724,1.0,5.0,3.0,4.0,4.0,5.0,5.0,NC,Dealer
 2023,Honda,Odyssey Elite,New,51114.0,4.4,121,Crystal Black Pearl,Black,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H95PB021135,H23086,10.0,5.0,5.0,4.0,4.0,4.0,5.0,WV,Dealer
 2020,Honda,Civic Si Base,Used,26000.0,4.1,173,Gray,Black,Front-wheel Drive,26–36,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFC1E50LH703806,TR20CIVICSI,40436.0,4.8,4.8,4.8,4.8,4.9,4.9,PA,Dealer
@@ -3389,7 +3389,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,CR-V Hybrid Sport Touring,New,40240.0,5.0,3634,Urban Gray Pearl,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H94PH801017,64224,1.0,5.0,3.0,4.0,4.0,5.0,5.0,NJ,Dealer
 2022,Honda,Civic EX,Used,29376.0,3.9,1421,Meteorite,Black,Front-wheel Drive,33–42,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,JHMFE1F76NX007151,A5318PL,11810.0,4.6,4.9,4.4,4.6,4.6,4.7,NY,Dealer
 2022,Honda,Pilot Touring 7-Passenger,New,48860.0,4.2,389,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H6XNB091123,221712,10.0,5.0,5.0,5.0,5.0,5.0,5.0,NY,Dealer
-2023,Honda,CR-V Hybrid Sport,New,,4.3,5964,Radiant Red Metallic,Black,All-wheel Drive,40–34,Hybrid,eCVT,2.0L I4 DOHC 16V,2HKRS6H97PH801321,23197,3.0,5.0,3.0,4.0,4.0,5.0,5.0,NY,Dealer
+2023,Honda,CR-V Hybrid Sport,New,35169.92592592593,4.3,5964,Radiant Red Metallic,Black,All-wheel Drive,40–34,Hybrid,eCVT,2.0L I4 DOHC 16V,2HKRS6H97PH801321,23197,3.0,5.0,3.0,4.0,4.0,5.0,5.0,NY,Dealer
 2016,Honda,CR-V EX,Used,19265.0,4.4,851,Modern Steel Metallic,Gray,All-wheel Drive,25–31,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,2HKRM4H54GH704489,G23026B,84891.0,4.6,4.5,4.6,4.6,4.7,4.7,NH,Dealer
 2019,Honda,Passport Touring,Used,30795.0,5.0,505,White Diamond Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H94KB006875,H22233A,31908.0,4.8,4.7,4.7,4.6,4.7,4.8,NH,Dealer
 2019,Honda,Passport Touring,Used,26195.0,4.6,299,Modern Steel Metallic,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H94KB025622,RC20606A,72513.0,4.8,4.7,4.7,4.6,4.7,4.8,NH,Dealer
@@ -4010,7 +4010,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,HR-V LX,New,26940.0,4.6,333,Platinum White Pearl,Gray,AWD,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ2H39PM728523,78863,5.0,4.0,5.0,4.0,5.0,5.0,5.0,NV,Dealer
 2023,Honda,Odyssey Elite,New,51420.0,5.0,737,Platinum White Pearl,Beige,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H97PB035490,46789,0.0,5.0,5.0,4.0,4.0,4.0,5.0,AZ,Dealer
 2017,Honda,CR-V EX-L,Used,21516.0,4.9,1273,Black,Black,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARW1H89HE038687,78904A,75538.0,4.8,4.8,4.7,4.7,4.8,4.8,ID,Dealer
-2023,Honda,Pilot EX-L 7-Passenger,New,,4.8,725,Silver,,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H59PB002684,PB002684,5.0,,,,,,,OR,Dealer
+2023,Honda,Pilot EX-L 7-Passenger,New,45625.142857142855,4.8,725,Silver,,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H59PB002684,PB002684,5.0,,,,,,,OR,Dealer
 2019,Honda,Civic Si Base,Used,26983.0,5.0,990,Lunar Silver Metallic,Black,Front-wheel Drive,28–38,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFC1E53KH702485,1220562,21183.0,4.7,4.8,4.7,4.8,4.8,4.9,OR,Dealer
 2017,Honda,Pilot LX,Used,22950.0,4.7,41,Gray,Beige,All-wheel Drive,18–26,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H19HB026398,026398,102137.0,4.8,4.7,4.7,4.6,4.7,4.7,CO,Dealer
 2021,Honda,Accord Sport 2.0T,Used,31998.0,4.8,15,Black,Black,Front-wheel Drive,22–32,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1HGCV2F37MA015687,23813651,21979.0,4.9,4.8,4.8,4.8,4.9,4.8,CO,Dealer
@@ -4291,7 +4291,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Accord Sport SE,New,30960.0,2.9,27,Sonic Gray Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F41NA120083,3120083,2.0,5.0,5.0,5.0,5.0,5.0,5.0,MD,Dealer
 2007,Honda,Accord EX-L,Used,8800.0,4.1,14,White,Beige,Front-wheel Drive,24–34,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,1HGCM56847A062356,64962805,155751.0,4.5,4.4,4.5,4.6,4.4,4.7,PA,Dealer
 2021,Honda,Civic Sport,Used,23700.0,5.0,3087,Polished Metal Metallic,Black,Front-wheel Drive,29–37,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,2HGFC2F86MH548095,EP548095,41103.0,4.6,4.7,4.7,4.6,4.8,4.6,MD,Dealer
-2022,Honda,Pilot Sport,New,,2.8,175,Gray,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H33NB084097,220638-R,10.0,5.0,5.0,5.0,5.0,5.0,5.0,PA,Dealer
+2022,Honda,Pilot Sport,New,40992.59545454545,2.8,175,Gray,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H33NB084097,220638-R,10.0,5.0,5.0,5.0,5.0,5.0,5.0,PA,Dealer
 2022,Honda,Accord LX 1.5T,New,28010.0,4.4,124,Radiant Red Metallic,Ivory,Front-wheel Drive,30–38,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F10NA071271,NA071271,5.0,5.0,5.0,5.0,5.0,5.0,5.0,PA,Dealer
 2023,Honda,Ridgeline RTL-E,New,46025.0,4.9,767,Crystal Black Pearl,Black,All-wheel Drive,,Gasoline,9-Speed,3.5L V6 24V GDI SOHC,5FPYK3F79PB009785,PB009785,5.0,5.0,4.8,4.8,4.2,5.0,5.0,NJ,Dealer
 2022,Honda,CR-V EX-L,Honda Certified,33886.0,4.3,5964,Obsidian Blue Pearl,,All-wheel Drive,27–32,Gasoline,continuously variable w/sport mode,4 Cylinder Engine,5J6RW2H8XNA000675,U2511344,14764.0,4.9,4.8,4.7,4.8,4.7,4.9,NY,Dealer
@@ -4352,7 +4352,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,Pilot Touring 8-Passenger,Honda Certified,35674.0,4.9,525,Crystal Black Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H90LB022836,H55835A,44439.0,4.6,4.5,4.2,4.1,4.5,4.1,IL,Dealer
 2023,Honda,Pilot Elite,New,51830.0,3.9,161,Sonic Gray Pearl,Black,All-wheel Drive,19–25,Gasoline,Automatic,Premium Unleaded V-6 3.5 L/212,5FNYG1H84PB004241,62486,1.0,,,,,,,WI,Dealer
 2023,Honda,CR-V EX-L,New,37450.0,2.4,246,Platinum White Pearl,Gray,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARS4H74PE010380,L61326,7.0,5.0,5.0,5.0,4.0,4.0,5.0,IL,Dealer
-2023,Honda,Pilot Sport,New,,3.9,235,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,10-Speed Automatic with Overdrive,3.5L V6 24V GDI DOHC,5FNYG1H36PB002009,47667,2.0,,,,,,,IN,Dealer
+2023,Honda,Pilot Sport,New,40992.59545454545,3.9,235,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,10-Speed Automatic with Overdrive,3.5L V6 24V GDI DOHC,5FNYG1H36PB002009,47667,2.0,,,,,,,IN,Dealer
 2018,Honda,Ridgeline RTL-E,Used,30452.0,4.9,5604,Crystal Black Pearl,Black,All-wheel Drive,18–25,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F72JB005746,42293A,48583.0,4.9,4.8,4.8,4.6,4.8,4.9,WI,Dealer
 2019,Honda,Ridgeline RTL-E,Used,36675.0,4.5,44,Gray,,All-wheel Drive,18–25,Gasoline,6-SPEED A/T,V6 Cylinder Engine,5FPYK3F72KB004310,21184,11062.0,4.9,4.8,4.8,4.6,4.7,4.9,TN,Dealer
 2019,Honda,HR-V Sport,Used,22990.0,4.7,344,Aegean Blue Metallic,,Front-wheel Drive,28–34,Gasoline,continuously variable w/sport mode,4 Cylinder Engine,3CZRU5H18KM728990,PM721068A,26314.0,4.6,4.6,4.4,4.6,4.8,4.7,TN,Dealer
@@ -4498,7 +4498,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2014,Honda,Accord Sport,Used,13500.0,4.7,6,Black,Black,Front-wheel Drive,26–34,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,1HGCR2F54EA045270,F2156,121400.0,4.6,4.6,4.6,4.6,4.7,4.8,MA,Dealer
 2022,Honda,Accord Sport 1.5T,New,28000.0,4.6,1480,Gray,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F31NA107616,NA107616,5.0,5.0,5.0,5.0,5.0,5.0,5.0,MA,Dealer
 2018,Honda,Accord EX,Used,23460.0,4.8,92,Black,Black,Front-wheel Drive,30–38,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F46JA007451,49535,47339.0,4.8,4.8,4.7,4.7,4.8,4.8,MA,Dealer
-2023,Honda,Civic Si Base,New,,1.4,46,Rallye Red,Black / Red,FWD,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E53PH471041,2230090,5.0,,,,,,,CA,Dealer
+2023,Honda,Civic Si Base,New,28851.694736842106,1.4,46,Rallye Red,Black / Red,FWD,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E53PH471041,2230090,5.0,,,,,,,CA,Dealer
 2023,Honda,Civic Si Base,New,34595.0,4.1,428,Crystal Black Pearl,Black / Red,Front-wheel Drive,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E52PH471953,PH471953,4.0,,,,,,,CA,Dealer
 2023,Honda,CR-V Hybrid Sport,New,34700.0,5.0,619,Platinum White Pearl,Black,Front-wheel Drive,43–36,Hybrid,Variable,Gas/Electric I-4 2.0 L/122,2HKRS5H59PH705133,230232,0.0,5.0,3.0,4.0,4.0,5.0,5.0,CA,Dealer
 2018,Honda,Accord Touring,Used,23990.0,4.0,9544,Gray,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F91JA026002,2001970619,105200.0,4.8,4.8,4.7,4.7,4.8,4.8,,
@@ -4736,8 +4736,8 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Odyssey EX,Honda Certified,36585.0,4.8,602,Obsidian Blue Pearl,Gray,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H52NB035293,B035293,34021.0,4.3,4.4,4.3,4.1,4.3,4.3,AR,Dealer
 2023,Honda,HR-V LX,New,25550.0,5.0,2599,Platinum White Pearl,Black,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ1H31PM729367,41992-04,5.0,4.0,5.0,4.0,5.0,5.0,5.0,TX,Dealer
 2022,Honda,Accord Sport 1.5T,New,30470.0,4.9,559,Platinum White Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F38NA116541,116541,35.0,5.0,5.0,5.0,5.0,5.0,5.0,TX,Dealer
-2023,Honda,Pilot Sport,New,,4.5,3710,Lunar Silver Metallic,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H36PB002222,PB002222,14.0,,,,,,,MO,Dealer
-2023,Honda,Civic Sport,New,,4.5,3710,Crystal Black Pearl,Black,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,19XFL2H8XPE001259,PE001259,8.0,,,,,,,MO,Dealer
+2023,Honda,Pilot Sport,New,40992.59545454545,4.5,3710,Lunar Silver Metallic,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H36PB002222,PB002222,14.0,,,,,,,MO,Dealer
+2023,Honda,Civic Sport,New,25784.584905660377,4.5,3710,Crystal Black Pearl,Black,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,19XFL2H8XPE001259,PE001259,8.0,,,,,,,MO,Dealer
 2023,Honda,Civic Si Base,New,29595.0,4.6,6558,Crystal Black Pearl,Black / Red,Front-wheel Drive,,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E58PH471665,230367,6.0,,,,,,,MN,Dealer
 2022,Honda,Pilot Sport,Honda Certified,36999.0,4.5,2760,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H32NB077769,NB077769R,785.0,5.0,5.0,5.0,5.0,5.0,5.0,MN,Dealer
 2020,Honda,Passport Touring,Used,34699.0,5.0,2352,Modern Steel Metallic,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H91LB009797,P12717,33866.0,4.9,4.8,4.8,4.6,4.8,4.8,MN,Dealer
@@ -4787,7 +4787,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2021,Honda,Ridgeline RTL,Used,38997.0,4.7,47,Platinum White Pearl,Beige,All-wheel Drive,18–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F59MB008890,14670H,13542.0,4.9,4.7,4.7,4.5,4.9,4.6,PA,Dealer
 2016,Honda,Accord Touring,Used,21971.0,4.4,158,Lunar Silver Metallic,Black,Front-wheel Drive,21–34,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI SOHC,1HGCR3F94GA026259,U3900A,62801.0,4.8,4.7,4.7,4.7,4.8,4.8,NY,Dealer
 2020,Honda,Fit LX,Used,18491.0,4.8,973,Platinum White Pearl,,Front-wheel Drive,33–40,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC,3HGGK5H43LM720831,LM720831,3054.0,4.7,4.6,4.7,4.8,4.5,4.8,FL,Dealer
-2022,Honda,Pilot Sport,New,,2.8,175,Sonic Gray Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H38NB104067,220682-R,3.0,5.0,5.0,5.0,5.0,5.0,5.0,PA,Dealer
+2022,Honda,Pilot Sport,New,40992.59545454545,2.8,175,Sonic Gray Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H38NB104067,220682-R,3.0,5.0,5.0,5.0,5.0,5.0,5.0,PA,Dealer
 2023,Honda,Ridgeline Black Edition,New,47525.0,4.4,124,Crystal Black Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F87PB013035,PB013035,3.0,5.0,4.8,4.8,4.2,5.0,5.0,PA,Dealer
 2004,Honda,Element EX,Used,5732.0,4.4,68,Satin Silver Metallic,Gray,Four-wheel Drive,21–24,Gasoline,4-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6YH28534L026744,A51454A,138815.0,4.3,4.7,4.4,4.8,4.4,4.9,PA,Dealer
 2023,Honda,Ridgeline RTL,New,43470.0,4.9,767,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,9-Speed,3.5L V6 24V GDI SOHC,5FPYK3F51PB017961,PB017961,5.0,5.0,4.8,4.8,4.2,5.0,5.0,NJ,Dealer
@@ -4821,7 +4821,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2019,Honda,CR-V Touring,Used,30900.0,4.8,3,Platinum White Pearl,Black,All-wheel Drive,27–33,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,JHLRW2H99KX002878,162232,62229.0,4.8,4.8,4.7,4.7,4.8,4.8,IA,Dealer
 2018,Honda,Fit EX-L,Used,19989.0,4.8,2395,Modern Steel Metallic,,Front-wheel Drive,31–36,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC,3HGGK5H09JM724442,JM724442,45831.0,4.6,4.7,4.6,4.8,4.8,4.8,TX,Dealer
 2020,Honda,Accord Hybrid EX-L,Used,28588.0,4.5,345,Platinum White Pearl,Black,Front-wheel Drive,48–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F59LA010738,2261159A,52823.0,4.7,4.8,4.5,4.6,4.7,4.8,IA,Dealer
-2023,Honda,Civic Sport Touring,New,,4.5,3710,Lunar Silver Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H88PE001951,PE001951,1.0,,,,,,,MO,Dealer
+2023,Honda,Civic Sport Touring,New,31362.615384615383,4.5,3710,Lunar Silver Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H88PE001951,PE001951,1.0,,,,,,,MO,Dealer
 2019,Honda,Passport EX-L,Used,29000.0,4.9,5418,Crystal Black Pearl,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H55KB021883,L8095,29077.0,4.8,4.7,4.7,4.6,4.7,4.8,MN,Dealer
 2020,Honda,HR-V LX,Honda Certified,23297.0,3.9,1075,Crystal Black Pearl,Black,All-wheel Drive,27–31,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU6H33LM739145,R252859A,26505.0,4.7,4.8,4.7,4.8,4.8,4.7,MN,Dealer
 2018,Honda,CR-V EX-L,Used,25395.0,4.7,7,Basque Red Pearl II,Gray,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARW1H83JE050386,G18926A,56727.0,4.8,4.7,4.7,4.6,4.7,4.7,LA,Dealer
@@ -4862,9 +4862,9 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Ridgeline RTL,New,43075.0,4.8,47,Modern Steel Metallic,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F57PB016362,X3714,2.0,5.0,4.8,4.8,4.2,5.0,5.0,PA,Dealer
 2011,Honda,Ridgeline RTS,Used,17888.0,4.8,18,Dark Cherry Pearl,Black,Four-wheel Drive,15–20,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FPYK1F47BB002787,22102,96111.0,4.7,4.8,4.6,4.6,4.6,5.0,MD,Dealer
 2023,Honda,Odyssey Elite,New,50965.0,5.0,3087,Modern Steel Metallic,Black,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H99PB036172,E3036172,,5.0,5.0,4.0,4.0,4.0,5.0,MD,Dealer
-2023,Honda,Ridgeline RTL,New,,2.8,175,Modern Steel Metallic,Gray,All-wheel Drive,,Gasoline,Automatic CVT,3.5L V6 24V GDI SOHC,5FPYK3F5XPB010927,230034-R,3.0,5.0,4.8,4.8,4.2,5.0,5.0,PA,Dealer
-2022,Honda,Ridgeline RTL,New,,2.8,175,Modern Steel Metallic,Black,All-wheel Drive,18–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F59NB033242,220535-R,3.0,5.0,4.9,4.9,4.3,4.7,5.0,PA,Dealer
-2023,Honda,Ridgeline RTL-E,New,,2.8,175,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F70PB016950,230080-R,3.0,5.0,4.8,4.8,4.2,5.0,5.0,PA,Dealer
+2023,Honda,Ridgeline RTL,New,39252.50427350427,2.8,175,Modern Steel Metallic,Gray,All-wheel Drive,,Gasoline,Automatic CVT,3.5L V6 24V GDI SOHC,5FPYK3F5XPB010927,230034-R,3.0,5.0,4.8,4.8,4.2,5.0,5.0,PA,Dealer
+2022,Honda,Ridgeline RTL,New,39252.50427350427,2.8,175,Modern Steel Metallic,Black,All-wheel Drive,18–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F59NB033242,220535-R,3.0,5.0,4.9,4.9,4.3,4.7,5.0,PA,Dealer
+2023,Honda,Ridgeline RTL-E,New,44047.35211267605,2.8,175,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F70PB016950,230080-R,3.0,5.0,4.8,4.8,4.2,5.0,5.0,PA,Dealer
 2023,Honda,Ridgeline Black Edition,New,47525.0,4.7,2504,Crystal Black Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F86PB007369,123053,3.0,5.0,4.8,4.8,4.2,5.0,5.0,PA,Dealer
 2020,Honda,Ridgeline RTL-E,Used,27995.0,4.3,150,Maroon,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F79LB005195,6498L,87347.0,4.8,4.7,4.6,4.5,4.7,4.7,PA,Dealer
 2023,Honda,Ridgeline RTL-E,New,46530.0,4.4,124,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F71PB018898,40017-39,0.0,5.0,4.8,4.8,4.2,5.0,5.0,PA,Dealer
