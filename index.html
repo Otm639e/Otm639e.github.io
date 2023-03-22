@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Honda Suggestions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="Title"><p>YOUR RELIABLE HONDA</p></div>
+    <div id="Question_Wrapper">
+
+        <div class="questions" id="question1">
+            <p>What is your budget?</p>
+            <input type="number" class="budget_amount" step=100 min="0">
+        </div>
+        <div class="questions" id="question2">
+            <p>Fuel Type?</p>
+            <div id="checkbox_wrapper">
+                <div>
+                    <input type="checkbox" class="checkboxes" id="gasoline">
+                    <label for="gasoline">Gasoline</label>
+                </div>
+                <div>
+                    <input type="checkbox" class="checkboxes" id="hybrid">
+                    <label for="hybrid">Hybrid</label>
+                </div>
+            </div>
+            
+        </div>
+
+        <div id="Button_Wrapper">
+            <button class="buttons" onclick="leftClick()"><</button>
+            <button class="buttons" onclick="rightClick()">></button>
+        </div>
+    </div>
+    
+
+<script type="text/javascript" src="header.js"></script>
+</body>
+</html>
