@@ -4,4 +4,4 @@
 - Cleaned the data after retrieving it from cars.com
 - Build a Dashboard using Tableau
 
-https://public.tableau.com/app/profile/omar.torres7606/viz/HondaPresentation/Dashboard2
+https://public.tableau.com/views/HondaPresentation/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
