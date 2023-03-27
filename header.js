@@ -102,7 +102,7 @@ function getInfo() {
 }
 
 function placeHondaModels(modelsArray) {
-    print(modelsArray);
+    console.log(modelsArray);
     submit.getElementsByTagName("H3").innerText = modelsArray;
 }
 
