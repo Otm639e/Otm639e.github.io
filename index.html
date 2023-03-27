@@ -97,12 +97,7 @@
     from data_manipulation import get_filtered_cars
 
     clean_df = pd.read_csv(open_url("./data/clean_honda_sell_data.csv"))
-    print(clean_df[["Price", "Fuel_Type", "Transmission", "Drivetrain", "min_MPG"]].head(3))
-    print(clean_df["Transmission"].unique())
-    print(clean_df["Drivetrain"].unique())
-    print(clean_df.shape)
-    
-    get_filtered_cars(clean_df ,34000, ['Gasoline'], ['cvt'], ['awd'], 0)
+    <!-- get_filtered_cars(clean_df ,34000, ['Gasoline'], ['cvt'], ['awd'], 0) -->
 
 
 </py-script>

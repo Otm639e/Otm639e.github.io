@@ -6,5 +6,4 @@ def get_filtered_cars(clean_df ,budget, fuelTypes, transmissionPreferences, driv
     filtered_df = filtered_df[filtered_df['min_MPG'] > minPreferedMPG]
     models = filtered_df['Model'].unique()
     model_lst = list(models)
-    print(model_lst)
     return model_lst

@@ -118,6 +118,5 @@ function submitData() {
                     };
 }
 
-// d3.csv("clean_honda_sell_data.csv", function(data) {
-//     console.log(data)
-// });
+get_filtered_cars = pyscript.interpreter.globals.get('get_filtered_cars');
+console.log(get_filtered_cars(clean_df ,34000, ['Gasoline'], ['cvt'], ['awd'], 0));
