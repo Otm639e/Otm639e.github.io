@@ -10,8 +10,13 @@ const question4 = document.getElementById('question4');
 question4.style.display = "none";
 const question5 = document.getElementById('question5');
 question5.style.display = "none";
-const submit = document.getElementById('submit');
+const submit = document.getElementById('submit_page');
 submit.style.display = "none";
+const submit_btn = document.getElementById('submit');
+submit_btn.style.display = "none";
+const right_btn = document.getElementById('rightButton');
+
+
 
 question_list = [question1, question2, question3, question4, question5, submit]
 current = 0
@@ -25,35 +30,17 @@ function rightClick() {
         current = current+1
         question_list[current].style.display = "flex";
         if (question_list[current] == question_list[question_list.length - 1]) {
-            document.getElementById('rightButton').innerText = 'Submit';
-            document.getElementById('rightButton').style.fontSize = '17px';
-            document.getElementById('rightButton').addEventListener("mouseover", function(){
-                document.getElementById('rightButton').style.color='#ca0000'
-                document.getElementById('rightButton').style.fontSize = '17.5px';
-            });
-            document.getElementById('rightButton').addEventListener("mouseout", function(){
-                document.getElementById('rightButton').style.color='#525252'
-                document.getElementById('rightButton').style.fontSize = '17px';
-            });
+            right_btn.style.display = "none";
+            submit_btn.style.display = "inline";
         }
-    }
-    else {
-        submitData();
     }
 }
 
 function leftClick() {
     if (question_list[current] == question_list[question_list.length - 1]) {
-        document.getElementById('rightButton').innerText = '>';
-        document.getElementById('rightButton').style.fontSize = '30px';
-        document.getElementById('rightButton').addEventListener("mouseover", function(){
-            document.getElementById('rightButton').style.color='#ca0000'
-            document.getElementById('rightButton').style.fontSize = '33px';
-        });
-        document.getElementById('rightButton').addEventListener("mouseout", function(){
-            document.getElementById('rightButton').style.color='#525252'
-            document.getElementById('rightButton').style.fontSize = '30px';
-        });
+        submit_btn.style.display = "none";
+        right_btn.style.display = "inline";
+
     }
     if (question_list[current] != question_list[0]) {
         question_list[current].style.display = "none";
@@ -109,14 +96,9 @@ function getData(question) {
 
 }
 
-function submitData() {
-    results_dict = {"budget": budget,
-                    "fuelTypes": fuelTypes,
-                    "transmissionPreferences": transmissionPreferences,
-                    "drivetrainPreferences": drivetrainPreferences,
-                    "minPreferedMPG": minPreferedMPG
-                    };
+function getInfo() {
+    results = [budget,fuelTypes,transmissionPreferences,drivetrainPreferences,minPreferedMPG];
+    return JSON.stringify(results);
 }
 
-get_filtered_cars = pyscript.interpreter.globals.get('get_filtered_cars');
-console.log(get_filtered_cars(clean_df ,34000, ['Gasoline'], ['cvt'], ['awd'], 0));
+

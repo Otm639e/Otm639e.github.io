@@ -6,13 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Honda Suggestions</title>
     <link rel="stylesheet" href="style.css">
-    <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
+
     <link rel="stylesheet"
            href="https://pyscript.net/alpha/pyscript.css" />
     <script defer
            src="https://pyscript.net/alpha/pyscript.js">
     </script>
-    <!-- <script defer src="https://pyscript.net/latest/pyscript.js"></script> -->
+    <py-env>
+        - pandas
+        - numpy
+        - paths:
+            - ./data/clean_honda_sell_data.csv
+            - ./data_manipulation.py
+    </py-env>
+    <py-script>
+        import pandas as pd 
+        import numpy as np 
+        import js
+        from pyodide.http import open_url
+        from data_manipulation import get_filtered_cars
+    
+        clean_df = pd.read_csv(open_url("./data/clean_honda_sell_data.csv"))
+    </py-script>
+    
 </head>
 <body>
     <div id="Title"><p>YOUR RELIABLE HONDA</p></div>
@@ -73,7 +89,7 @@
             <p>Minimum Prefered MPG?</p>
             <input type="number" class="budget_amount" step=5 min="0" max="50" value="0" onkeydown="return false">
         </div>
-        <div class="questions" id="submit">
+        <div class="questions" id="submit_page">
             <p>Done, Now Submit</p>
         </div>
 
@@ -81,26 +97,30 @@
         <div id="Button_Wrapper">
             <button class="buttons" id="leftButton" onclick="leftClick()"><</button>
             <button class="buttons" id="rightButton" onclick="rightClick()">></button>
+            <button class="buttons" id="submit">Submit</button>
         </div>
     </div>
-<py-env>
-    - pandas
-    - numpy
-    - paths:
-        - ./data/clean_honda_sell_data.csv
-        - ./data_manipulation.py
-</py-env>
-<py-script>
-    import pandas as pd 
-    import numpy as np 
-    from pyodide.http import open_url
-    from data_manipulation import get_filtered_cars
-
-    clean_df = pd.read_csv(open_url("./data/clean_honda_sell_data.csv"))
-    <!-- get_filtered_cars(clean_df ,34000, ['Gasoline'], ['cvt'], ['awd'], 0) -->
-
-
-</py-script>
 <script type="text/javascript" src="header.js"></script>
+<py-script>
+from js import document 
+from pyodide import create_proxy
+from js import getInfo
+try:
+    import simplejson as json
+except (ImportError,):
+    import json
+
+def getVariableData(*args, **kwargs):
+    variable_info = getInfo()
+    variable_list = json.loads(variable_info)
+    variable_list[0] = int(variable_list[0])
+    variable_list[-1] = int(variable_list[-1])
+    model_list = get_filtered_cars(variable_list)
+    print(model_list)
+
+   
+function_proxy = create_proxy(getVariableData)
+document.getElementById("submit").addEventListener("click", function_proxy)
+</py-script>
 </body>
 </html>
