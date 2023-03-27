@@ -12,10 +12,6 @@
     <script defer
            src="https://pyscript.net/alpha/pyscript.js">
     </script>
-    <py-env>
-        - pandas
-        - numpy
-    </py-env>
     <!-- <script defer src="https://pyscript.net/latest/pyscript.js"></script> -->
 </head>
 <body>
@@ -30,11 +26,11 @@
             <p>Fuel Type?</p>
             <div class="checkbox_wrapper">
                 <div>
-                    <input type="checkbox" class="checkboxes" id="gasoline" value="gasoline">
+                    <input type="checkbox" class="checkboxes" id="gasoline" value="Gasoline">
                     <label for="gasoline">Gasoline</label>
                 </div>
                 <div>
-                    <input type="checkbox" class="checkboxes" id="hybrid" value="hybrid">
+                    <input type="checkbox" class="checkboxes" id="hybrid" value="Hybrid">
                     <label for="hybrid">Hybrid</label>
                 </div>
             </div>
@@ -87,23 +83,26 @@
             <button class="buttons" id="rightButton" onclick="rightClick()">></button>
         </div>
     </div>
-    
+<py-env>
+    - pandas
+    - numpy
+    - paths:
+        - ./data/clean_honda_sell_data.csv
+        - ./data_manipulation.py
+</py-env>
 <py-script>
     import pandas as pd 
     import numpy as np 
     from pyodide.http import open_url
+    from data_manipulation import get_filtered_cars
 
-    clean_df = pd.read_csv(open_url("data/clean_honda_sell_data.csv"))
-    def get_filtered_cars(budget, fuelTypes, transmissionPreferences, drivetrainPreferences, minPreferedMPG):
-        filtered_df = clean_df[clean_df['Price'] < budget]
-        filtered_df = filtered_df[filtered_df["Transmission"].isin(fuelTypes)]
-        filtered_df = filtered_df[filtered_df["Fuel_Type"].isin(transmissionPreferences)]
-        filtered_df = filtered_df[filtered_df["Drivetrain"].isin(drivetrainPreferences)]
-        filtered_df = filtered_df[filtered_df['min_MPG'] > minPreferedMPG]
-        models = filtered_df['Model']
-        model_lst = list(models)
-        return model_lst
-    get_filtered_cars(34000, [gasoline], [cvt], [awd], 0)
+    clean_df = pd.read_csv(open_url("./data/clean_honda_sell_data.csv"))
+    print(clean_df[["Price", "Fuel_Type", "Transmission", "Drivetrain", "min_MPG"]].head(3))
+    print(clean_df["Transmission"].unique())
+    print(clean_df["Drivetrain"].unique())
+    print(clean_df.shape)
+    
+    get_filtered_cars(clean_df ,34000, ['Gasoline'], ['cvt'], ['awd'], 0)
 
 
 </py-script>
