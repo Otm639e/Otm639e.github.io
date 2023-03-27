@@ -7,7 +7,16 @@
     <title>Honda Suggestions</title>
     <link rel="stylesheet" href="style.css">
     <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
-    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+    <link rel="stylesheet"
+           href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer
+           src="https://pyscript.net/alpha/pyscript.js">
+    </script>
+    <py-env>
+        - pandas
+        - numpy
+    </py-env>
+    <!-- <script defer src="https://pyscript.net/latest/pyscript.js"></script> -->
 </head>
 <body>
     <div id="Title"><p>YOUR RELIABLE HONDA</p></div>
@@ -79,7 +88,24 @@
         </div>
     </div>
     
-<py-script src="data_manipulation.py"></py-script>
+<py-script>
+    import pandas as pd 
+    import numpy as np 
+
+    clean_df = pd.read_csv("data/clean_honda_sell_data.csv")
+    def get_filtered_cars(budget, fuelTypes, transmissionPreferences, drivetrainPreferences, minPreferedMPG):
+        filtered_df = clean_df[clean_df['Price'] < budget]
+        filtered_df = filtered_df[filtered_df["Transmission"].isin(fuelTypes)]
+        filtered_df = filtered_df[filtered_df["Fuel_Type"].isin(transmissionPreferences)]
+        filtered_df = filtered_df[filtered_df["Drivetrain"].isin(drivetrainPreferences)]
+        filtered_df = filtered_df[filtered_df['min_MPG'] > minPreferedMPG]
+        models = filtered_df['Model']
+        model_lst = list(models)
+        return model_lst
+    get_filtered_cars(34000, [gasoline], [cvt], [awd], 0)
+
+
+</py-script>
 <script type="text/javascript" src="header.js"></script>
 </body>
 </html>
