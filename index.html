@@ -115,7 +115,7 @@ def getVariableData(*args, **kwargs):
     variable_list = json.loads(variable_info)
     variable_list[0] = int(variable_list[0])
     variable_list[-1] = int(variable_list[-1])
-    model_list = get_filtered_cars(variable_list)
+    model_list = get_filtered_cars(variable_list[0], variable_list[1], variable_list[2], variable_list[3], variable_list[4])
     print(model_list)
 
    
