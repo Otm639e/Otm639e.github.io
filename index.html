@@ -91,8 +91,10 @@
 <py-script>
     import pandas as pd 
     import numpy as np 
+    from pyodide.http import open_url
 
-    clean_df = pd.read_csv("data/clean_honda_sell_data.csv")
+    clean_df = pd.read_csv(open_url("https://github.com/Otm639e/Otm639e.github.io/blob/main/data/clean_honda_sell_data.csv"))
+    print(clean_df)
     def get_filtered_cars(budget, fuelTypes, transmissionPreferences, drivetrainPreferences, minPreferedMPG):
         filtered_df = clean_df[clean_df['Price'] < budget]
         filtered_df = filtered_df[filtered_df["Transmission"].isin(fuelTypes)]
