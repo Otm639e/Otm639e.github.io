@@ -101,4 +101,9 @@ function getInfo() {
     return JSON.stringify(results);
 }
 
+function placeHondaModels(modelsArray) {
+    print(modelsArray);
+    submit.getElementsByTagName("H3").innerText(modelsArray);
+}
+
 

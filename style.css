@@ -62,6 +62,13 @@ body {
     text-align: center;
     font-size: 20px;
 }
+#Question_Wrapper #submit_page h3 {
+    width: 100%;
+    padding-top: 15px;
+    color: #000000;
+    text-align: center;
+    font-size: 20px;
+}
 #Question_Wrapper .questions .budget_amount {
     width: 50%;
     height: 50px;
@@ -81,7 +88,7 @@ body {
 #Question_Wrapper #Button_Wrapper {
     position: absolute;
     width: 99%;
-    height: 45px;
+    height: 50px;
     padding: 0 0.5%;
     padding-bottom: 5px;
     display: flex;

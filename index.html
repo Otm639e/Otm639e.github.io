@@ -91,6 +91,7 @@
         </div>
         <div class="questions" id="submit_page">
             <p>Done, Now Submit</p>
+            <h3></h3>
         </div>
 
 
@@ -104,7 +105,7 @@
 <py-script>
 from js import document 
 from pyodide import create_proxy
-from js import getInfo
+from js import getInfo, placeHondaModels
 try:
     import simplejson as json
 except (ImportError,):
@@ -117,6 +118,7 @@ def getVariableData(*args, **kwargs):
     variable_list[-1] = int(variable_list[-1])
     model_list = get_filtered_cars(clean_df, variable_list[0], variable_list[1], variable_list[2], variable_list[3], variable_list[4])
     print(model_list)
+    placeHondaModels(model_list)
 
    
 function_proxy = create_proxy(getVariableData)
