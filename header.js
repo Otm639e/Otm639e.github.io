@@ -103,7 +103,7 @@ function getInfo() {
 
 function placeHondaModels(modelsArray) {
     print(modelsArray);
-    submit.getElementsByTagName("H3").innerText(modelsArray);
+    submit.getElementsByTagName("H3").innerText = modelsArray;
 }
 
 
