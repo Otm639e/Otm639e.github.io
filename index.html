@@ -6,6 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Honda Suggestions</title>
     <link rel="stylesheet" href="style.css">
+    <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+    <py-config>
+        packages = [
+         "numpy",
+         "pandas"
+        ]
+    </py-config>
 </head>
 <body>
     <div id="Title"><p>YOUR RELIABLE HONDA</p></div>
@@ -13,30 +21,71 @@
 
         <div class="questions" id="question1">
             <p>What is your budget?</p>
-            <input type="number" class="budget_amount" step=100 min="0">
+            <input type="number" class="budget_amount" step=100 min="0" value="70000">
         </div>
         <div class="questions" id="question2">
             <p>Fuel Type?</p>
-            <div id="checkbox_wrapper">
+            <div class="checkbox_wrapper">
                 <div>
-                    <input type="checkbox" class="checkboxes" id="gasoline">
+                    <input type="checkbox" class="checkboxes" id="gasoline" value="gasoline">
                     <label for="gasoline">Gasoline</label>
                 </div>
                 <div>
-                    <input type="checkbox" class="checkboxes" id="hybrid">
+                    <input type="checkbox" class="checkboxes" id="hybrid" value="hybrid">
                     <label for="hybrid">Hybrid</label>
                 </div>
             </div>
-            
+        </div>
+        <div class="questions" id="question3">
+            <p>Transmission Preference?</p>
+            <div class="checkbox_wrapper">
+                <div>
+                    <input type="checkbox" class="checkboxes" id="automatic" value="automatic">
+                    <label for="automatic">Automatic</label>
+                </div>
+                <div>
+                    <input type="checkbox" class="checkboxes" id="manual" value="manual">
+                    <label for="manual">Manual</label>
+                </div>
+                <div>
+                    <input type="checkbox" class="checkboxes" id="cvt" value="cvt">
+                    <label for="cvt">CVT</label>
+                </div>
+            </div>
+        </div>
+        <div class="questions" id="question4">
+            <p>Drivetrain Preference?</p>
+            <div class="checkbox_wrapper">
+                <div>
+                    <input type="checkbox" class="checkboxes" id="fwd" value="fwd">
+                    <label for="fwd">FWD</label>
+                </div>
+                <div>
+                    <input type="checkbox" class="checkboxes" id="awd" value="awd">
+                    <label for="awd">AWD</label>
+                </div>
+                <div>
+                    <input type="checkbox" class="checkboxes" id="rwd" value="rwd">
+                    <label for="rwd">RWD</label>
+                </div>
+            </div>
+        </div>
+        <div class="questions" id="question5">
+            <p>Minimum Prefered MPG?</p>
+            <input type="number" class="budget_amount" step=5 min="0" max="50" value="0" onkeydown="return false">
+        </div>
+        <div class="questions" id="submit">
+            <p>Done, Now Submit</p>
         </div>
 
+
         <div id="Button_Wrapper">
-            <button class="buttons" onclick="leftClick()"><</button>
-            <button class="buttons" onclick="rightClick()">></button>
+            <button class="buttons" id="leftButton" onclick="leftClick()"><</button>
+            <button class="buttons" id="rightButton" onclick="rightClick()">></button>
         </div>
     </div>
     
-
+<py-script src="data_manipulation.py"></py-script>
 <script type="text/javascript" src="header.js"></script>
 </body>
 </html>
