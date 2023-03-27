@@ -111,17 +111,27 @@ try:
 except (ImportError,):
     import json
 
+model_list = []
 def getVariableData(*args, **kwargs):
     variable_info = getInfo()
     variable_list = json.loads(variable_info)
     variable_list[0] = int(variable_list[0])
     variable_list[-1] = int(variable_list[-1])
     model_list = get_filtered_cars(clean_df, variable_list[0], variable_list[1], variable_list[2], variable_list[3], variable_list[4])
-    placeHondaModels(model_list)
+    placeHondaModels()
 
    
 function_proxy = create_proxy(getVariableData)
 document.getElementById("submit").addEventListener("click", function_proxy)
 </py-script>
+<script>
+    function placeHondaModels() {
+        var pyList = pyscript.interpreter.globals.get("model_list");
+        var modelsArray = Array.from(pyList);
+        console.log(modelsArray);
+        const submit = document.getElementById('submit_page');
+        submit.getElementsByTagName("H3").innerText = modelsArray;
+    }
+</script>
 </body>
 </html>
