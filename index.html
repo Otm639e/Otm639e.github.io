@@ -42,7 +42,7 @@
             <p>Fuel Type?</p>
             <div class="checkbox_wrapper">
                 <div>
-                    <input type="checkbox" class="checkboxes" id="gasoline" value="Gasoline">
+                    <input type="checkbox" class="checkboxes" id="gasoline" value="Gasoline" checked="True">
                     <label for="gasoline">Gasoline</label>
                 </div>
                 <div>
@@ -55,7 +55,7 @@
             <p>Transmission Preference?</p>
             <div class="checkbox_wrapper">
                 <div>
-                    <input type="checkbox" class="checkboxes" id="automatic" value="automatic">
+                    <input type="checkbox" class="checkboxes" id="automatic" value="automatic" checked="True">
                     <label for="automatic">Automatic</label>
                 </div>
                 <div>
@@ -72,7 +72,7 @@
             <p>Drivetrain Preference?</p>
             <div class="checkbox_wrapper">
                 <div>
-                    <input type="checkbox" class="checkboxes" id="fwd" value="fwd">
+                    <input type="checkbox" class="checkboxes" id="fwd" value="fwd" checked="True">
                     <label for="fwd">FWD</label>
                 </div>
                 <div>
@@ -91,7 +91,9 @@
         </div>
         <div class="questions" id="submit_page">
             <p>Done, Now Submit</p>
-            <h3></h3>
+            <div>
+                
+            </div>
         </div>
 
 
@@ -111,27 +113,17 @@ try:
 except (ImportError,):
     import json
 
-model_list = []
 def getVariableData(*args, **kwargs):
     variable_info = getInfo()
     variable_list = json.loads(variable_info)
     variable_list[0] = int(variable_list[0])
     variable_list[-1] = int(variable_list[-1])
     model_list = get_filtered_cars(clean_df, variable_list[0], variable_list[1], variable_list[2], variable_list[3], variable_list[4])
-    placeHondaModels()
+    placeHondaModels(json.dumps(model_list))
 
    
 function_proxy = create_proxy(getVariableData)
 document.getElementById("submit").addEventListener("click", function_proxy)
 </py-script>
-<script>
-    function placeHondaModels() {
-        var pyList = pyscript.interpreter.globals.get("model_list");
-        var modelsArray = Array.from(pyList);
-        console.log(modelsArray);
-        const submit = document.getElementById('submit_page');
-        submit.getElementsByTagName("H3").innerText = modelsArray;
-    }
-</script>
 </body>
 </html>

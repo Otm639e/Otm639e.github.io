@@ -15,6 +15,8 @@ submit.style.display = "none";
 const submit_btn = document.getElementById('submit');
 submit_btn.style.display = "none";
 const right_btn = document.getElementById('rightButton');
+const left_btn = document.getElementById('leftButton');
+left_btn.style.visibility = 'hidden';
 
 
 
@@ -29,9 +31,11 @@ function rightClick() {
         getData(question_list[current])
         current = current+1
         question_list[current].style.display = "flex";
+        left_btn.style.visibility = 'visible';
         if (question_list[current] == question_list[question_list.length - 1]) {
             right_btn.style.display = "none";
             submit_btn.style.display = "inline";
+            submit_btn.style.visibility = "visible";
         }
     }
 }
@@ -40,9 +44,14 @@ function leftClick() {
     if (question_list[current] == question_list[question_list.length - 1]) {
         submit_btn.style.display = "none";
         right_btn.style.display = "inline";
-
+        submit.getElementsByTagName("p")[0].innerText = "Done, Now Submit";
+        const h3Elements = submit.querySelectorAll('h3');
+        h3Elements.forEach(h3 => h3.remove());
     }
     if (question_list[current] != question_list[0]) {
+        if (question_list[current] == question_list[1]) {
+            left_btn.style.visibility = 'hidden';
+        }
         question_list[current].style.display = "none";
         current = current-1
         question_list[current].style.display = "flex";
@@ -101,4 +110,16 @@ function getInfo() {
     return JSON.stringify(results);
 }
 
+function placeHondaModels(pythonListModels) {
+    submit.getElementsByTagName("p")[0].innerText = "Your Honda Models";
+    models_list = JSON.parse(pythonListModels);
+    const modelsWraper = submit.getElementsByTagName("div")[0];
+    for (model in models_list) {
+        let newh3 = document.createElement('h3');
+        newh3.innerText = models_list[model];
+        modelsWraper.appendChild(newh3);
+    }
+    submit_btn.style.visibility = 'hidden';
+    
+}
 
