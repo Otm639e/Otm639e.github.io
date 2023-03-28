@@ -118,7 +118,23 @@ function placeHondaModels(pythonListModels) {
         let newa = document.createElement('a');
         newa.classList.add("newa")
         newa.innerText = models_list[model];
-        newa.href = `https://www.cars.com/shopping/results/?dealer_id=&drivetrain_slugs[]=${drivetrainPreferences[0]}&keyword=&list_price_max=${budget}&list_price_min=&makes[]=honda&maximum_distance=20&mileage_max=&models[]=honda-${models_list[model].toLowerCase().replaceAll("-","_").split(" ").join("-")}&page_size=20&sort=best_match_desc&stock_type=all&transmission_slugs[]=${transmissionPreferences[0]}&trims[]=honda-${models_list[model].toLowerCase().replaceAll("-","_").split(" ").join("-")}&year_max=&year_min=&zip=`;
+        transmissionString = ``;
+        for (let i = 0; i < transmissionPreferences.length; i++) {
+            transmissionString = transmissionString+`transmission_slugs[]=${transmissionPreferences[i]}&`
+        }
+        driveTrainString = ``;
+        for (let i = 0; i < drivetrainPreferences.length; i++) {
+            if (drivetrainPreferences[i] == "awd") {
+                driveTrainString = driveTrainString+`drivetrain_slugs[]=all_wheel_drive&`+`drivetrain_slugs[]=four_wheel_drive&`;
+            }
+            if (drivetrainPreferences[i] == "fwd") {
+                driveTrainString = driveTrainString+`drivetrain_slugs[]=front_wheel_drive&`;
+            }
+            if (drivetrainPreferences[i] == "rwd") {
+                driveTrainString = driveTrainString+`drivetrain_slugs[]=rear_wheel_drive&`;
+            }
+        }
+        newa.href = `https://www.cars.com/shopping/results/?dealer_id=&`+driveTrainString+`keyword=&list_price_max=${budget}&list_price_min=&makes[]=honda&maximum_distance=20&mileage_max=&models[]=honda-${models_list[model].toLowerCase().replaceAll("-","_").split(" ").join("-")}&page_size=20&sort=best_match_desc&stock_type=all&`+transmissionString+`trims[]=honda-${models_list[model].toLowerCase().replaceAll("-","_").split(" ").join("-")}&year_max=&year_min=&zip=`;
         newa.target = "_blank"
         modelsWraper.appendChild(newa);
     }
@@ -126,3 +142,4 @@ function placeHondaModels(pythonListModels) {
     
 }
 
+"drivetrain_slugs[]=all_wheel_drive"

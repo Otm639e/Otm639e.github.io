@@ -28,6 +28,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 #Title {
     width: 100%;
@@ -136,14 +138,13 @@ body {
 
 #description {
     width: 80%;
-    height: 100px;
     margin-top: 20px;
     border-radius: 10px;
     text-align: left;
     font-size: 18px;
     display: flex;
     flex-direction: column;
-    margin-bottom: 25px;
+    margin-bottom: 40px;
 }
 #description a {
     margin-top: 20px;
