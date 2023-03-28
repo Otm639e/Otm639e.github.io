@@ -45,8 +45,8 @@ function leftClick() {
         submit_btn.style.display = "none";
         right_btn.style.display = "inline";
         submit.getElementsByTagName("p")[0].innerText = "Done, Now Submit";
-        const h3Elements = submit.querySelectorAll('h3');
-        h3Elements.forEach(h3 => h3.remove());
+        const aElements = submit.querySelectorAll('a');
+        aElements.forEach(a => a.remove());
     }
     if (question_list[current] != question_list[0]) {
         if (question_list[current] == question_list[1]) {
@@ -115,9 +115,12 @@ function placeHondaModels(pythonListModels) {
     models_list = JSON.parse(pythonListModels);
     const modelsWraper = submit.getElementsByTagName("div")[0];
     for (model in models_list) {
-        let newh3 = document.createElement('h3');
-        newh3.innerText = models_list[model];
-        modelsWraper.appendChild(newh3);
+        let newa = document.createElement('a');
+        newa.classList.add("newa")
+        newa.innerText = models_list[model];
+        newa.href = `https://www.cars.com/shopping/results/?dealer_id=&drivetrain_slugs[]=${drivetrainPreferences[0]}&keyword=&list_price_max=${budget}&list_price_min=&makes[]=honda&maximum_distance=20&mileage_max=&models[]=honda-${models_list[model].toLowerCase().replaceAll("-","_").split(" ").join("-")}&page_size=20&sort=best_match_desc&stock_type=all&transmission_slugs[]=${transmissionPreferences[0]}&trims[]=honda-${models_list[model].toLowerCase().replaceAll("-","_").split(" ").join("-")}&year_max=&year_min=&zip=`;
+        newa.target = "_blank"
+        modelsWraper.appendChild(newa);
     }
     submit_btn.style.visibility = 'hidden';
     

@@ -36,7 +36,9 @@
 
         <div class="questions" id="question1">
             <p>What is your budget?</p>
-            <input type="number" class="budget_amount" step=100 min="0" value="70000">
+            <!-- Code For Input values only being numbers: -->
+            <!-- https://stackoverflow.com/questions/31706611/why-does-the-html-input-with-type-number-allow-the-letter-e-to-be-entered-in -->
+            <input type="number" class="budget_amount" step=100 min="0" value="70000" onkeydown="javascript: return ['Backspace','Delete','ArrowLeft','ArrowRight'].includes(event.code) ? true : !isNaN(Number(event.key)) && event.code!=='Space'"/>
         </div>
         <div class="questions" id="question2">
             <p>Fuel Type?</p>
@@ -87,7 +89,7 @@
         </div>
         <div class="questions" id="question5">
             <p>Minimum Prefered MPG?</p>
-            <input type="number" class="budget_amount" step=5 min="0" max="50" value="0" onkeydown="return false">
+            <input type="number" class="budget_amount" step=5 min="0" max="50" value="0" onkeydown="javascript: return ['Backspace','Delete','ArrowLeft','ArrowRight'].includes(event.code) ? true : !isNaN(Number(event.key)) && event.code!=='Space'">
         </div>
         <div class="questions" id="submit_page">
             <p>Done, Now Submit</p>
