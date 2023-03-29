@@ -144,7 +144,7 @@ body {
     font-size: 18px;
     display: flex;
     flex-direction: column;
-    margin-bottom: 40px;
+    padding-bottom: 40px;
 }
 #description a {
     margin-top: 20px;
